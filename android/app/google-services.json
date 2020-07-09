@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "496102413107",
+    "firebase_url": "https://okazaki-app.firebaseio.com",
+    "project_id": "okazaki-app",
+    "storage_bucket": "okazaki-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496102413107:android:457992b186e8ba3ab5a446",
+        "android_client_info": {
+          "package_name": "com.example.provider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496102413107-qg9h8r5f1qkk6vsvmto2s3e6iektdh7m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe600CBK-0bY4TfXIgDJx2z_U_aUv3Jm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496102413107-qg9h8r5f1qkk6vsvmto2s3e6iektdh7m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "496102413107-hupuu31cu5tsbhrfkus76oq5v2i4ctmb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.providerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
