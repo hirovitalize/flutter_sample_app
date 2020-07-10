@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:provider_app/book_list_page.dart';
-import 'package:provider_app/main_model.dart';
+import 'package:provider_app/presentation/book_list/book_list_page.dart';
+import 'package:provider_app/presentation/main/main_model.dart';
 
 void main() => runApp(MyApp());
 
